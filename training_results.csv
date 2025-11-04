@@ -1,0 +1,501 @@
+store,department,status
+Kathmandu Mart,Grocery,success
+Kathmandu Mart,Vegetables,success
+Kathmandu Mart,Dairy,success
+Kathmandu Mart,Bakery,success
+Kathmandu Mart,Electronics,success
+Kathmandu Mart,Clothing,success
+Kathmandu Mart,Footwear,success
+Kathmandu Mart,Home & Kitchen,success
+Kathmandu Mart,Pharmacy,success
+Kathmandu Mart,Toys,success
+Kathmandu Mart,Stationery,success
+Kathmandu Mart,Beauty,success
+Kathmandu Mart,Meat,success
+Kathmandu Mart,Beverages,success
+Kathmandu Mart,Mobile & Accessories,success
+Kathmandu Mart,Hardware,success
+Kathmandu Mart,Fruits,success
+Kathmandu Mart,Frozen Foods,success
+Kathmandu Mart,Household Care,success
+Kathmandu Mart,Auto Accessories,success
+Bhat-Bhateni,Grocery,success
+Bhat-Bhateni,Vegetables,success
+Bhat-Bhateni,Dairy,success
+Bhat-Bhateni,Bakery,success
+Bhat-Bhateni,Electronics,success
+Bhat-Bhateni,Clothing,success
+Bhat-Bhateni,Footwear,success
+Bhat-Bhateni,Home & Kitchen,success
+Bhat-Bhateni,Pharmacy,success
+Bhat-Bhateni,Toys,success
+Bhat-Bhateni,Stationery,success
+Bhat-Bhateni,Beauty,success
+Bhat-Bhateni,Meat,success
+Bhat-Bhateni,Beverages,success
+Bhat-Bhateni,Mobile & Accessories,success
+Bhat-Bhateni,Hardware,success
+Bhat-Bhateni,Fruits,success
+Bhat-Bhateni,Frozen Foods,success
+Bhat-Bhateni,Household Care,success
+Bhat-Bhateni,Auto Accessories,success
+Lalitpur Market,Grocery,success
+Lalitpur Market,Vegetables,success
+Lalitpur Market,Dairy,success
+Lalitpur Market,Bakery,success
+Lalitpur Market,Electronics,success
+Lalitpur Market,Clothing,success
+Lalitpur Market,Footwear,success
+Lalitpur Market,Home & Kitchen,success
+Lalitpur Market,Pharmacy,success
+Lalitpur Market,Toys,success
+Lalitpur Market,Stationery,success
+Lalitpur Market,Beauty,success
+Lalitpur Market,Meat,success
+Lalitpur Market,Beverages,success
+Lalitpur Market,Mobile & Accessories,success
+Lalitpur Market,Hardware,success
+Lalitpur Market,Fruits,success
+Lalitpur Market,Frozen Foods,success
+Lalitpur Market,Household Care,success
+Lalitpur Market,Auto Accessories,success
+Pokhara Plaza,Grocery,success
+Pokhara Plaza,Vegetables,success
+Pokhara Plaza,Dairy,success
+Pokhara Plaza,Bakery,success
+Pokhara Plaza,Electronics,success
+Pokhara Plaza,Clothing,success
+Pokhara Plaza,Footwear,success
+Pokhara Plaza,Home & Kitchen,success
+Pokhara Plaza,Pharmacy,success
+Pokhara Plaza,Toys,success
+Pokhara Plaza,Stationery,success
+Pokhara Plaza,Beauty,success
+Pokhara Plaza,Meat,success
+Pokhara Plaza,Beverages,success
+Pokhara Plaza,Mobile & Accessories,success
+Pokhara Plaza,Hardware,success
+Pokhara Plaza,Fruits,success
+Pokhara Plaza,Frozen Foods,success
+Pokhara Plaza,Household Care,success
+Pokhara Plaza,Auto Accessories,success
+Butwal SuperMart,Grocery,success
+Butwal SuperMart,Vegetables,success
+Butwal SuperMart,Dairy,success
+Butwal SuperMart,Bakery,success
+Butwal SuperMart,Electronics,success
+Butwal SuperMart,Clothing,success
+Butwal SuperMart,Footwear,success
+Butwal SuperMart,Home & Kitchen,success
+Butwal SuperMart,Pharmacy,success
+Butwal SuperMart,Toys,success
+Butwal SuperMart,Stationery,success
+Butwal SuperMart,Beauty,success
+Butwal SuperMart,Meat,success
+Butwal SuperMart,Beverages,success
+Butwal SuperMart,Mobile & Accessories,success
+Butwal SuperMart,Hardware,success
+Butwal SuperMart,Fruits,success
+Butwal SuperMart,Frozen Foods,success
+Butwal SuperMart,Household Care,success
+Butwal SuperMart,Auto Accessories,success
+Biratnagar Mart,Grocery,success
+Biratnagar Mart,Vegetables,success
+Biratnagar Mart,Dairy,success
+Biratnagar Mart,Bakery,success
+Biratnagar Mart,Electronics,success
+Biratnagar Mart,Clothing,success
+Biratnagar Mart,Footwear,success
+Biratnagar Mart,Home & Kitchen,success
+Biratnagar Mart,Pharmacy,success
+Biratnagar Mart,Toys,success
+Biratnagar Mart,Stationery,success
+Biratnagar Mart,Beauty,success
+Biratnagar Mart,Meat,success
+Biratnagar Mart,Beverages,success
+Biratnagar Mart,Mobile & Accessories,success
+Biratnagar Mart,Hardware,success
+Biratnagar Mart,Fruits,success
+Biratnagar Mart,Frozen Foods,success
+Biratnagar Mart,Household Care,success
+Biratnagar Mart,Auto Accessories,success
+Hetauda Hyper,Grocery,success
+Hetauda Hyper,Vegetables,success
+Hetauda Hyper,Dairy,success
+Hetauda Hyper,Bakery,success
+Hetauda Hyper,Electronics,success
+Hetauda Hyper,Clothing,success
+Hetauda Hyper,Footwear,success
+Hetauda Hyper,Home & Kitchen,success
+Hetauda Hyper,Pharmacy,success
+Hetauda Hyper,Toys,success
+Hetauda Hyper,Stationery,success
+Hetauda Hyper,Beauty,success
+Hetauda Hyper,Meat,success
+Hetauda Hyper,Beverages,success
+Hetauda Hyper,Mobile & Accessories,success
+Hetauda Hyper,Hardware,success
+Hetauda Hyper,Fruits,success
+Hetauda Hyper,Frozen Foods,success
+Hetauda Hyper,Household Care,success
+Hetauda Hyper,Auto Accessories,success
+Dharan Plaza,Grocery,success
+Dharan Plaza,Vegetables,success
+Dharan Plaza,Dairy,success
+Dharan Plaza,Bakery,success
+Dharan Plaza,Electronics,success
+Dharan Plaza,Clothing,success
+Dharan Plaza,Footwear,success
+Dharan Plaza,Home & Kitchen,success
+Dharan Plaza,Pharmacy,success
+Dharan Plaza,Toys,success
+Dharan Plaza,Stationery,success
+Dharan Plaza,Beauty,success
+Dharan Plaza,Meat,success
+Dharan Plaza,Beverages,success
+Dharan Plaza,Mobile & Accessories,success
+Dharan Plaza,Hardware,success
+Dharan Plaza,Fruits,success
+Dharan Plaza,Frozen Foods,success
+Dharan Plaza,Household Care,success
+Dharan Plaza,Auto Accessories,success
+Nepalgunj Market,Grocery,success
+Nepalgunj Market,Vegetables,success
+Nepalgunj Market,Dairy,success
+Nepalgunj Market,Bakery,success
+Nepalgunj Market,Electronics,success
+Nepalgunj Market,Clothing,success
+Nepalgunj Market,Footwear,success
+Nepalgunj Market,Home & Kitchen,success
+Nepalgunj Market,Pharmacy,success
+Nepalgunj Market,Toys,success
+Nepalgunj Market,Stationery,success
+Nepalgunj Market,Beauty,success
+Nepalgunj Market,Meat,success
+Nepalgunj Market,Beverages,success
+Nepalgunj Market,Mobile & Accessories,success
+Nepalgunj Market,Hardware,success
+Nepalgunj Market,Fruits,success
+Nepalgunj Market,Frozen Foods,success
+Nepalgunj Market,Household Care,success
+Nepalgunj Market,Auto Accessories,success
+Janakpur Mart,Grocery,success
+Janakpur Mart,Vegetables,success
+Janakpur Mart,Dairy,success
+Janakpur Mart,Bakery,success
+Janakpur Mart,Electronics,success
+Janakpur Mart,Clothing,success
+Janakpur Mart,Footwear,success
+Janakpur Mart,Home & Kitchen,success
+Janakpur Mart,Pharmacy,success
+Janakpur Mart,Toys,success
+Janakpur Mart,Stationery,success
+Janakpur Mart,Beauty,success
+Janakpur Mart,Meat,success
+Janakpur Mart,Beverages,success
+Janakpur Mart,Mobile & Accessories,success
+Janakpur Mart,Hardware,success
+Janakpur Mart,Fruits,success
+Janakpur Mart,Frozen Foods,success
+Janakpur Mart,Household Care,success
+Janakpur Mart,Auto Accessories,success
+Itahari Center,Grocery,success
+Itahari Center,Vegetables,success
+Itahari Center,Dairy,success
+Itahari Center,Bakery,success
+Itahari Center,Electronics,success
+Itahari Center,Clothing,success
+Itahari Center,Footwear,success
+Itahari Center,Home & Kitchen,success
+Itahari Center,Pharmacy,success
+Itahari Center,Toys,success
+Itahari Center,Stationery,success
+Itahari Center,Beauty,success
+Itahari Center,Meat,success
+Itahari Center,Beverages,success
+Itahari Center,Mobile & Accessories,success
+Itahari Center,Hardware,success
+Itahari Center,Fruits,success
+Itahari Center,Frozen Foods,success
+Itahari Center,Household Care,success
+Itahari Center,Auto Accessories,success
+Bhairahawa Mall,Grocery,success
+Bhairahawa Mall,Vegetables,success
+Bhairahawa Mall,Dairy,success
+Bhairahawa Mall,Bakery,success
+Bhairahawa Mall,Electronics,success
+Bhairahawa Mall,Clothing,success
+Bhairahawa Mall,Footwear,success
+Bhairahawa Mall,Home & Kitchen,success
+Bhairahawa Mall,Pharmacy,success
+Bhairahawa Mall,Toys,success
+Bhairahawa Mall,Stationery,success
+Bhairahawa Mall,Beauty,success
+Bhairahawa Mall,Meat,success
+Bhairahawa Mall,Beverages,success
+Bhairahawa Mall,Mobile & Accessories,success
+Bhairahawa Mall,Hardware,success
+Bhairahawa Mall,Fruits,success
+Bhairahawa Mall,Frozen Foods,success
+Bhairahawa Mall,Household Care,success
+Bhairahawa Mall,Auto Accessories,success
+Chitwan SuperCenter,Grocery,success
+Chitwan SuperCenter,Vegetables,success
+Chitwan SuperCenter,Dairy,success
+Chitwan SuperCenter,Bakery,success
+Chitwan SuperCenter,Electronics,success
+Chitwan SuperCenter,Clothing,success
+Chitwan SuperCenter,Footwear,success
+Chitwan SuperCenter,Home & Kitchen,success
+Chitwan SuperCenter,Pharmacy,success
+Chitwan SuperCenter,Toys,success
+Chitwan SuperCenter,Stationery,success
+Chitwan SuperCenter,Beauty,success
+Chitwan SuperCenter,Meat,success
+Chitwan SuperCenter,Beverages,success
+Chitwan SuperCenter,Mobile & Accessories,success
+Chitwan SuperCenter,Hardware,success
+Chitwan SuperCenter,Fruits,success
+Chitwan SuperCenter,Frozen Foods,success
+Chitwan SuperCenter,Household Care,success
+Chitwan SuperCenter,Auto Accessories,success
+Pokhara BigMart,Grocery,success
+Pokhara BigMart,Vegetables,success
+Pokhara BigMart,Dairy,success
+Pokhara BigMart,Bakery,success
+Pokhara BigMart,Electronics,success
+Pokhara BigMart,Clothing,success
+Pokhara BigMart,Footwear,success
+Pokhara BigMart,Home & Kitchen,success
+Pokhara BigMart,Pharmacy,success
+Pokhara BigMart,Toys,success
+Pokhara BigMart,Stationery,success
+Pokhara BigMart,Beauty,success
+Pokhara BigMart,Meat,success
+Pokhara BigMart,Beverages,success
+Pokhara BigMart,Mobile & Accessories,success
+Pokhara BigMart,Hardware,success
+Pokhara BigMart,Fruits,success
+Pokhara BigMart,Frozen Foods,success
+Pokhara BigMart,Household Care,success
+Pokhara BigMart,Auto Accessories,success
+Birgunj Mart,Grocery,success
+Birgunj Mart,Vegetables,success
+Birgunj Mart,Dairy,success
+Birgunj Mart,Bakery,success
+Birgunj Mart,Electronics,success
+Birgunj Mart,Clothing,success
+Birgunj Mart,Footwear,success
+Birgunj Mart,Home & Kitchen,success
+Birgunj Mart,Pharmacy,success
+Birgunj Mart,Toys,success
+Birgunj Mart,Stationery,success
+Birgunj Mart,Beauty,success
+Birgunj Mart,Meat,success
+Birgunj Mart,Beverages,success
+Birgunj Mart,Mobile & Accessories,success
+Birgunj Mart,Hardware,success
+Birgunj Mart,Fruits,success
+Birgunj Mart,Frozen Foods,success
+Birgunj Mart,Household Care,success
+Birgunj Mart,Auto Accessories,success
+Saleways Nepal,Grocery,success
+Saleways Nepal,Vegetables,success
+Saleways Nepal,Dairy,success
+Saleways Nepal,Bakery,success
+Saleways Nepal,Electronics,success
+Saleways Nepal,Clothing,success
+Saleways Nepal,Footwear,success
+Saleways Nepal,Home & Kitchen,success
+Saleways Nepal,Pharmacy,success
+Saleways Nepal,Toys,success
+Saleways Nepal,Stationery,success
+Saleways Nepal,Beauty,success
+Saleways Nepal,Meat,success
+Saleways Nepal,Beverages,success
+Saleways Nepal,Mobile & Accessories,success
+Saleways Nepal,Hardware,success
+Saleways Nepal,Fruits,success
+Saleways Nepal,Frozen Foods,success
+Saleways Nepal,Household Care,success
+Saleways Nepal,Auto Accessories,success
+CityCenter KTM,Grocery,success
+CityCenter KTM,Vegetables,success
+CityCenter KTM,Dairy,success
+CityCenter KTM,Bakery,success
+CityCenter KTM,Electronics,success
+CityCenter KTM,Clothing,success
+CityCenter KTM,Footwear,success
+CityCenter KTM,Home & Kitchen,success
+CityCenter KTM,Pharmacy,success
+CityCenter KTM,Toys,success
+CityCenter KTM,Stationery,success
+CityCenter KTM,Beauty,success
+CityCenter KTM,Meat,success
+CityCenter KTM,Beverages,success
+CityCenter KTM,Mobile & Accessories,success
+CityCenter KTM,Hardware,success
+CityCenter KTM,Fruits,success
+CityCenter KTM,Frozen Foods,success
+CityCenter KTM,Household Care,success
+CityCenter KTM,Auto Accessories,success
+KK Mart,Grocery,success
+KK Mart,Vegetables,success
+KK Mart,Dairy,success
+KK Mart,Bakery,success
+KK Mart,Electronics,success
+KK Mart,Clothing,success
+KK Mart,Footwear,success
+KK Mart,Home & Kitchen,success
+KK Mart,Pharmacy,success
+KK Mart,Toys,success
+KK Mart,Stationery,success
+KK Mart,Beauty,success
+KK Mart,Meat,success
+KK Mart,Beverages,success
+KK Mart,Mobile & Accessories,success
+KK Mart,Hardware,success
+KK Mart,Fruits,success
+KK Mart,Frozen Foods,success
+KK Mart,Household Care,success
+KK Mart,Auto Accessories,success
+Township Mart,Grocery,success
+Township Mart,Vegetables,success
+Township Mart,Dairy,success
+Township Mart,Bakery,success
+Township Mart,Electronics,success
+Township Mart,Clothing,success
+Township Mart,Footwear,success
+Township Mart,Home & Kitchen,success
+Township Mart,Pharmacy,success
+Township Mart,Toys,success
+Township Mart,Stationery,success
+Township Mart,Beauty,success
+Township Mart,Meat,success
+Township Mart,Beverages,success
+Township Mart,Mobile & Accessories,success
+Township Mart,Hardware,success
+Township Mart,Fruits,success
+Township Mart,Frozen Foods,success
+Township Mart,Household Care,success
+Township Mart,Auto Accessories,success
+Himalayan Hyper,Grocery,success
+Himalayan Hyper,Vegetables,success
+Himalayan Hyper,Dairy,success
+Himalayan Hyper,Bakery,success
+Himalayan Hyper,Electronics,success
+Himalayan Hyper,Clothing,success
+Himalayan Hyper,Footwear,success
+Himalayan Hyper,Home & Kitchen,success
+Himalayan Hyper,Pharmacy,success
+Himalayan Hyper,Toys,success
+Himalayan Hyper,Stationery,success
+Himalayan Hyper,Beauty,success
+Himalayan Hyper,Meat,success
+Himalayan Hyper,Beverages,success
+Himalayan Hyper,Mobile & Accessories,success
+Himalayan Hyper,Hardware,success
+Himalayan Hyper,Fruits,success
+Himalayan Hyper,Frozen Foods,success
+Himalayan Hyper,Household Care,success
+Himalayan Hyper,Auto Accessories,success
+Eastern Plaza,Grocery,success
+Eastern Plaza,Vegetables,success
+Eastern Plaza,Dairy,success
+Eastern Plaza,Bakery,success
+Eastern Plaza,Electronics,success
+Eastern Plaza,Clothing,success
+Eastern Plaza,Footwear,success
+Eastern Plaza,Home & Kitchen,success
+Eastern Plaza,Pharmacy,success
+Eastern Plaza,Toys,success
+Eastern Plaza,Stationery,success
+Eastern Plaza,Beauty,success
+Eastern Plaza,Meat,success
+Eastern Plaza,Beverages,success
+Eastern Plaza,Mobile & Accessories,success
+Eastern Plaza,Hardware,success
+Eastern Plaza,Fruits,success
+Eastern Plaza,Frozen Foods,success
+Eastern Plaza,Household Care,success
+Eastern Plaza,Auto Accessories,success
+Midland Mart,Grocery,success
+Midland Mart,Vegetables,success
+Midland Mart,Dairy,success
+Midland Mart,Bakery,success
+Midland Mart,Electronics,success
+Midland Mart,Clothing,success
+Midland Mart,Footwear,success
+Midland Mart,Home & Kitchen,success
+Midland Mart,Pharmacy,success
+Midland Mart,Toys,success
+Midland Mart,Stationery,success
+Midland Mart,Beauty,success
+Midland Mart,Meat,success
+Midland Mart,Beverages,success
+Midland Mart,Mobile & Accessories,success
+Midland Mart,Hardware,success
+Midland Mart,Fruits,success
+Midland Mart,Frozen Foods,success
+Midland Mart,Household Care,success
+Midland Mart,Auto Accessories,success
+Western Super,Grocery,success
+Western Super,Vegetables,success
+Western Super,Dairy,success
+Western Super,Bakery,success
+Western Super,Electronics,success
+Western Super,Clothing,success
+Western Super,Footwear,success
+Western Super,Home & Kitchen,success
+Western Super,Pharmacy,success
+Western Super,Toys,success
+Western Super,Stationery,success
+Western Super,Beauty,success
+Western Super,Meat,success
+Western Super,Beverages,success
+Western Super,Mobile & Accessories,success
+Western Super,Hardware,success
+Western Super,Fruits,success
+Western Super,Frozen Foods,success
+Western Super,Household Care,success
+Western Super,Auto Accessories,success
+Southern Bazaar,Grocery,success
+Southern Bazaar,Vegetables,success
+Southern Bazaar,Dairy,success
+Southern Bazaar,Bakery,success
+Southern Bazaar,Electronics,success
+Southern Bazaar,Clothing,success
+Southern Bazaar,Footwear,success
+Southern Bazaar,Home & Kitchen,success
+Southern Bazaar,Pharmacy,success
+Southern Bazaar,Toys,success
+Southern Bazaar,Stationery,success
+Southern Bazaar,Beauty,success
+Southern Bazaar,Meat,success
+Southern Bazaar,Beverages,success
+Southern Bazaar,Mobile & Accessories,success
+Southern Bazaar,Hardware,success
+Southern Bazaar,Fruits,success
+Southern Bazaar,Frozen Foods,success
+Southern Bazaar,Household Care,success
+Southern Bazaar,Auto Accessories,success
+Northern Market,Grocery,success
+Northern Market,Vegetables,success
+Northern Market,Dairy,success
+Northern Market,Bakery,success
+Northern Market,Electronics,success
+Northern Market,Clothing,success
+Northern Market,Footwear,success
+Northern Market,Home & Kitchen,success
+Northern Market,Pharmacy,success
+Northern Market,Toys,success
+Northern Market,Stationery,success
+Northern Market,Beauty,success
+Northern Market,Meat,success
+Northern Market,Beverages,success
+Northern Market,Mobile & Accessories,success
+Northern Market,Hardware,success
+Northern Market,Fruits,success
+Northern Market,Frozen Foods,success
+Northern Market,Household Care,success
+Northern Market,Auto Accessories,success

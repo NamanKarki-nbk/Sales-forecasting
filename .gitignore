@@ -1,0 +1,8 @@
+# Ignore Node modules inside frontend/frontend
+frontend/frontend/node_modules/
+
+# Ignore vector store files
+vector_store/
+
+# Ignore ML model files
+models/
