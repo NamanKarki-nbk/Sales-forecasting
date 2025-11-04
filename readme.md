@@ -11,26 +11,6 @@ business insights for retail operations in Nepal.
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-------------------------------------------------------------------------
-
-## 📋 Table of Contents
-
--   [Overview](#overview)
--   [Key Features](#key-features)
--   [System Architecture](#system-architecture)
--   [Tech Stack](#tech-stack)
--   [Installation](#installation)
--   [Quick Start](#quick-start)
--   [Project Structure](#project-structure)
--   [How It Works](#how-it-works)
--   [Usage Examples](#usage-examples)
--   [Data Requirements](#data-requirements)
--   [Configuration](#configuration)
--   [Contributing](#contributing)
--   [License](#license)
--   [Acknowledgments](#acknowledgments)
-
-------------------------------------------------------------------------
 
 ## 🎯 Overview
 
