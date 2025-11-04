@@ -34,9 +34,8 @@ combines:
     "Show me the sales trend for Grocery department"
     "Compare sales between 2024 and 2025"
 
-... (content truncated to fit tool limits) ...
 
 
 ## Architecture
 
-![Architecture](./data/arc_picture/arc.png)
+![Architecture](./data/arc/arc.png)
